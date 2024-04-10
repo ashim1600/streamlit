@@ -1,4 +1,4 @@
-# streamlit
+# Streamlit app for salary prediction
 I'm thrilled to announce the launch of our latest project—Software Developer Salary Exploration! Dive into the world of developer compensation using data from the Stack Overflow Developer Survey 2023. Whether you're a seasoned developer or just starting out, this project offers valuable insights into salaries across different countries, experience levels, and education backgrounds.
 
 🔍 What's Inside:

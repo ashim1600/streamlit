@@ -20,3 +20,8 @@ Understanding developer salaries is crucial for both professionals and employers
 
 Ready to explore developer salaries like never before? Join us on this journey of discovery and data-driven decision-making!
 #DeveloperSalaries #DataAnalysis #TechTrends #StackOverflowSurvey #SalaryInsights #DataVisualization #OpenSource #Streamlit #PythonProgramming #SoftwareDevelopment #CareerPlanning #TechIndustry #InformedDecisions
+## Screenshots
+
+![Screenshot 1](https://github.com/ashim1600/streamlit/blob/main/images/prediction.png)
+![Screenshot 2](https://github.com/ashim1600/streamlit/blob/main/images/explore.png)
+![Screenshot 3](https://github.com/ashim1600/streamlit/blob/main/images/explore1.png)
